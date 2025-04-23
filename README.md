@@ -33,7 +33,7 @@ A **Categoria** pode ter vários **Produtos**, configurado através do relaciona
 
 ## **Diagrama de Entidades**
 
-Aqui está um diagrama simples representando o relacionamento entre as entidades **Produto** e **Categoria**:
+Aqui está um diagrama simples feito no Draw.io para representar o relacionamento entre as entidades **Produto** e **Categoria**:
 
 ![Diagrama de Entidades](diagrama.png)
 
@@ -177,7 +177,7 @@ CREATE TABLE produto (
 
 ## Desenvolvido por
 
-**[Seu Nome]**
+**Kevin Thiago dos Santos**
 
 Este projeto foi desenvolvido como parte da avaliação prática para a disciplina de Arquitetura Web, utilizando o Spring Boot, MariaDB, e RESTful APIs.
 
